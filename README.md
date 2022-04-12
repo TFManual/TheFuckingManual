@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am working on projects at https://github.com/debloat-dev. \
+Feel free to talk to me on [Revolt](https://app.revolt.chat/invite/cJQPeQkc) or on this [Discord server](https://discord.gg/dZwwfECx).
+
 <!--
 **TheFuckingManual/TheFuckingManual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
